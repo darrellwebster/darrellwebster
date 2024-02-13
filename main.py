@@ -1,6 +1,6 @@
 
-def sum(a, b):
-    return (a + b)
+def sum(a, b, c):
+    return (a + b + c)
 
 a = int(input('Enter 1st number: '))
 b = int(input('Enter 2nd number: '))
