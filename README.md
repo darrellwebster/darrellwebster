@@ -3,9 +3,6 @@
 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: hot girl
 
-<!---
-darrellwebster/darrellwebster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---->
