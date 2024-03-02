@@ -1,6 +1,6 @@
 
 def sum(a, b, c, d):
-    return (a + b + c)
+    return (a + b + c + d)
 
 a = int(input('Enter onest number: '))
 b = int(input('Enter twond number: '))
